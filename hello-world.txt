@@ -5,4 +5,7 @@ belajar itu penting
 
 coba ambil kelas dicoding fundamental
 
+
 Tools: Android studio and Kotlin
+
+
